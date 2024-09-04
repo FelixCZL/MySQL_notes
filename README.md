@@ -7,3 +7,9 @@ On 02/09/2024, what I've learned is as follows:
 3) define primary key, foreign key and character type;
 4) alter something in a table;
 5) select * from `table_name`;
+
+On 04/09/2024, what I've learned is as follows:
+
+1) update data into table;
+2) conditional query;
+3) add index into table;
